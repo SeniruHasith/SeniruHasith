@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seniru Gunathilake</h1>
 <h3 align="left">Hello, my name is Seniru Hasith Gunathilake, and I am a dedicated and driven individual currently pursuing a BSc in Computer Science from the Informatic Institute of Technology affiliated with the University of Westminster. I am highly motivated and possess a strong work ethic, which drives me to excel in every task I undertake. As I prepare to graduate in September 2024, I am eager to apply my skills and knowledge to make a meaningful contribution to the IT industry.</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nu-pink-20.vercel.app/index.html](https://portfolio-nu-pink-20.vercel.app/index.html)
+- 👨‍💻 All of my projects are available at [https://portfolio-next-js-seniruhasiths-projects.vercel.app)
 
 - 📫 How to reach me **seniruhasith@gmail.com**
 
